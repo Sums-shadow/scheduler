@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620924747 source:c:\users\user\documents\sums\c\sheduler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1620892788 source:c:\users\user\documents\sums\c\sheduler\fifo.c
+
